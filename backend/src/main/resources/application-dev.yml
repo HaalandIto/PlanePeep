@@ -1,0 +1,31 @@
+## THIS PROPERTIES FILE IS FOR DEVELOPMENT ENVIRONMENT
+# properties override application.properties
+
+# Spring Boot profile property resolution will look for application-{profile}.properties when
+# {profile} is active, overriding application.properties. It will lood application.properties first
+server:
+    port: '8080' # Use 8080 so frontend (api.js default BASE_URL) and Vite proxy target can reach backend without "connection refused"
+spring:
+    # Backend runs on 8001; frontend (Vite) runs on 8000 and proxies /api -> http://localhost:8001
+    # spring.config.import=optional:file:.env[.properties] # docker compose will inject env vars
+
+    # H2 in-memory datasource — overrides MySQL settings in application.properties
+    # DB_CLOSE_DELAY=-1 keeps the database alive after connection closes (for H2 console)
+    datasource:
+        url: '${DB_URL}'
+        username: '${DB_USERNAME}'
+        password: '${DB_PASSWORD}'
+        driver-class-name: com.mysql.cj.jdbc.Driver
+    # Hibernate creates the schema from entities at startup and drops on shutdown
+    jpa:
+        hibernate:
+            ddl-auto: create-drop
+        show-sql: true
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.MySQLDialect
+        defer-datasource-initialization: true # Defer Spring's SQL initializer (data.sql) until after Hibernate has created the schema
+
+
+# Enable the H2 web console
+# https://stackoverflow.com/a/24727653

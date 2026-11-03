@@ -1,0 +1,685 @@
+:root {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    color-scheme: dark;
+    color: rgba(255, 255, 255, 0.9);
+    background-color: black;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    font-weight: 500;
+    color: teal;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: black;
+}
+
+#root {
+    min-height: 100vh;
+}
+
+/* ----- App navbar (About-style theme) ----- */
+.app-navbar {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+    background: linear-gradient(
+        to bottom,
+        black 0%,
+        rgba(0, 0, 0, 0.85) 40%,
+        rgba(0, 0, 0, 0.4) 70%,
+        transparent 100%
+    ) !important;
+    border-bottom: none;
+}
+
+.app-navbar .navbar-brand {
+    color: teal !important;
+    background: transparent !important;
+}
+.app-navbar .navbar-brand img {
+    mix-blend-mode: lighten;
+}
+.app-navbar .nav-link {
+    color: teal !important;
+}
+
+.app-navbar .nav-link:hover {
+    text-decoration: underline;
+    color: teal !important;
+}
+
+.app-navbar .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.3);
+}
+.app-navbar .navbar-toggler-icon {
+    filter: invert(1);
+}
+
+.app-navbar .fw-semibold {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.app-navbar .btn-outline-secondary {
+    border-color: teal;
+    color: teal;
+}
+.app-navbar .btn-outline-secondary:hover {
+    background-color: teal;
+    color: black;
+    border-color: teal;
+}
+.app-navbar .btn-primary {
+    background-color: teal;
+    border-color: teal;
+}
+.app-navbar .btn-primary:hover {
+    background-color: #008080;
+    border-color: #008080;
+}
+
+/* ----- Login popup (top-right below navbar) ----- */
+.login-popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1025;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.login-popup {
+    position: fixed;
+    top: 4.5rem;
+    right: 1rem;
+    z-index: 1035;
+    min-width: 280px;
+    max-width: 340px;
+    padding: 0;
+    background: linear-gradient(180deg, #0d1117 0%, #161b22 100%);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+.login-popup-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.login-popup-title {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.login-popup-close {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 1.5rem;
+    line-height: 1;
+    padding: 0 0.25rem;
+    cursor: pointer;
+}
+
+.login-popup-close:hover {
+    color: teal;
+}
+
+.login-popup-form {
+    padding: 1rem;
+}
+
+.login-popup-form .form-label {
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.login-popup-form .form-control {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.login-popup-form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.login-popup-form .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-color: teal;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.login-popup-actions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.login-popup-actions .btn-primary {
+    background-color: teal;
+    border-color: teal;
+}
+
+.login-popup-actions .btn-primary:hover {
+    background-color: #008080;
+    border-color: #008080;
+}
+
+.login-popup-actions .btn-outline-secondary {
+    border-color: rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.login-popup-actions .btn-outline-secondary:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: teal;
+    color: teal;
+}
+
+.login-popup-register {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.login-popup-register-link {
+    color: teal;
+    text-decoration: none;
+}
+
+.login-popup-register-link:hover {
+    text-decoration: underline;
+}
+
+/* Map extends full viewport behind navbar */
+.map-fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0;
+}
+
+/* Zoom level HUD (Google zoom: larger number = more zoomed in) */
+.map-zoom-hud {
+    position: absolute;
+    top: calc(4.5rem + 8px);
+    right: 12px;
+    z-index: 5;
+    pointer-events: none;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.02em;
+    color: rgba(255, 255, 255, 0.92);
+    background: rgba(20, 20, 20, 0.72);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+
+/* Search bar stays centered regardless of login state */
+.app-navbar .navbar-search-center {
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    pointer-events: none;
+}
+.app-navbar .navbar-search-center > * {
+    pointer-events: auto;
+}
+
+.app-navbar .form-control {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.9);
+}
+.app-navbar .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+.app-navbar .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-color: teal;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+/* Search bar: Change the color of the text that matches the user's query */
+.dropdown-item.active,
+.dropdown-item.active:hover,
+.dropdown-item.active:focus {
+    background-color: teal !important; /* e.g., #ff5733 */
+    color: white !important;
+}
+
+/* ----- Shared page layout (About-style for all content pages) ----- */
+.app-page {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-top: 4.5rem; /* below fixed navbar */
+    background-color: black;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+.app-page__content {
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 3rem;
+}
+
+.app-page__nav {
+    margin-bottom: 1.5rem;
+}
+
+.app-page__nav-link {
+    color: teal;
+    font-size: 0.9375rem;
+    text-decoration: none;
+}
+
+.app-page__nav-link:hover {
+    text-decoration: underline;
+}
+
+.app-page__title {
+    color: teal;
+    margin: 0 0 0.5rem;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+.app-page__tagline {
+    color: rgba(255, 255, 255, 0.85);
+    margin: 0 0 2.5rem;
+    font-size: 1.125rem;
+}
+
+.app-page__form {
+    max-width: 22rem;
+    margin-bottom: 1.5rem;
+}
+
+.app-page__form .form-label {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.app-page__form .form-control {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.25);
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.app-page__form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.app-page__form .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-color: teal;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.app-page__form .btn-primary,
+.app-page__form-submit {
+    background-color: teal;
+    border-color: teal;
+}
+
+.app-page__form .btn-primary:hover,
+.app-page__form-submit:hover {
+    background-color: #008080;
+    border-color: #008080;
+}
+
+.app-page__form-error {
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    background-color: rgba(200, 60, 60, 0.2);
+    border: 1px solid rgba(200, 60, 60, 0.5);
+    border-radius: 6px;
+    color: #f88;
+    font-size: 0.9375rem;
+}
+
+.app-page__section {
+    margin-bottom: 2rem;
+}
+
+.app-page__section h2 {
+    color: teal;
+    margin: 0 0 0.75rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.app-page__section p {
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.app-page__section ul {
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0;
+    padding-left: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+.app-page__section li {
+    margin-bottom: 0.5rem;
+}
+
+.app-page__section li:last-child {
+    margin-bottom: 0;
+}
+
+.app-page__section strong {
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.app-page__section--muted p {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.9375rem;
+}
+
+.app-page a {
+    color: teal;
+    text-decoration: none;
+}
+
+.app-page a:hover {
+    text-decoration: underline;
+}
+
+.app-page__guest-note {
+    margin-bottom: 1rem !important;
+}
+
+.app-page__attribution {
+    margin-top: 0.75rem !important;
+}
+
+/* ----- Flight list (Favorites page) ----- */
+.flight-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.flight-list li {
+    margin-bottom: 0;
+}
+
+.favorites-card {
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+}
+
+.favorites-card__header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.favorites-card__header .favorites-card__name {
+    flex: 1;
+    min-width: 0;
+}
+
+.favorites-card__name {
+    background: none;
+    border: none;
+    padding: 0;
+    color: teal;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: left;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+}
+
+.favorites-card__name:hover {
+    color: #20b2aa;
+    text-decoration: underline;
+}
+
+.favorites-card__name-input {
+    flex: 1;
+    min-width: 0;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid teal;
+    border-radius: 6px;
+    padding: 0.35rem 0.5rem;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 1rem;
+}
+
+.favorites-card__name-input:focus {
+    outline: none;
+    border-color: teal;
+}
+
+.favorites-card__id {
+    color: teal;
+    font-weight: 700;
+    font-size: 0.9375rem;
+}
+
+.favorites-card__route {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1rem;
+    margin-bottom: 0.35rem;
+}
+
+.favorites-card__arrow {
+    margin: 0 0.5rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.favorites-card__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+}
+
+.favorites-card__type {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.875rem;
+}
+
+.favorites-card__updated {
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 0.8125rem;
+}
+
+.favorites-card__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.favorites-card__btn {
+    padding: 0.4rem 0.75rem;
+    font-size: 0.8125rem;
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.9);
+    cursor: pointer;
+}
+
+.favorites-card__btn:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 0.35);
+}
+
+.favorites-card__btn--arrow {
+    padding: 0.25rem 0.5rem;
+    font-size: 1rem;
+    line-height: 1;
+    min-width: 2rem;
+}
+
+.favorites-card__btn--arrow:hover,
+.favorites-card__btn--rename:hover {
+    border-color: teal;
+    color: teal;
+}
+
+.favorites-card__btn--remove:hover {
+    border-color: #c53030;
+    color: #f56565;
+}
+
+button {
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    transition:
+        border-color 0.25s,
+        background-color 0.25s;
+}
+/*=================================================*/
+/*  MODAL STYLING
+/*=================================================*/
+
+/* ---------- Modal Backdrop ---------- */
+.modal-backdrop.show {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* ---------- Modal Container ---------- */
+.modal-content {
+    background: linear-gradient(180deg, #0d1117 0%, #161b22 100%);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* ---------- Divider Lines ---------- */
+.modal-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.modal-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* ---------- Modal Title ---------- */
+.modal-title {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+/* ---------- Close Button ---------- */
+.modal-header .btn-close {
+    filter: invert(1);
+    opacity: 0.6;
+}
+
+.modal-header .btn-close:hover {
+    opacity: 1;
+}
+
+/* ---------- Modal Body ---------- */
+.modal-content * {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+/* ---------- Table Styling ---------- */
+.modal-body table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* table header */
+.modal-body th {
+    font-weight: 600;
+    padding: 0.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+/* table cells */
+.modal-body td {
+    padding: 0.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* zebra striping */
+.modal-body tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* hover highlight */
+.modal-body tr:hover {
+    background-color: rgba(0, 128, 128, 0.15);
+}
+
+/* ---------- Buttons ---------- */
+.plane-modal .modal-footer button {
+    background-color: teal;
+    border-color: teal;
+}
+
+.plane-modal .modal-footer button:hover {
+    background-color: #006969;
+    border-color: #006969;
+}
+
+/* ---------- For PlaneInfoModal ---------- */
+.plane-modal {
+    margin-left: 1rem;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: auto;
+}

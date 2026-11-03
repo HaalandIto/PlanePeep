@@ -1,0 +1,442 @@
+City	FAA	IATA	ICAO	Airport	Role	Enplanements	Lat	Lng
+ALABAMA								
+Birmingham	BHM	BHM	KBHM	Birmingham�CShuttlesworth International Airport	P-S	1,081,328	33.562877	-86.750712
+Dothan	DHN	DHN	KDHN	Dothan Regional Airport	P-N	37,047	31.321301	-85.449600
+Huntsville	HSV	HSV	KHSV	Huntsville International Airport?(Carl T. Jones Field)	P-S	459,759	34.636244	-86.774378
+Mobile	MOB	MOB	KMOB	Mobile Regional Airport	P-N	236,007	30.691200	-88.242798
+Montgomery	MGM	MGM	KMGM	Montgomery Regional Airport?(Dannelly Field)	P-N	129,033	32.300598	-86.393997
+ALASKA								
+Anchorage	MRI	MRI	PAMR	Merrill Field	P-N	22,907	61.212792	-149.843988
+Anchorage	ANC	ANC	PANC	Ted Stevens Anchorage International Airport	P-M	2,184,959	61.179004	-149.992561
+Bethel	BET	BET	PABE	Bethel Airport?(also see?Bethel Seaplane Base)	P-N	105,877	60.779800	-161.837997
+Cordova	CDV	CDV	PACV	Merle K. (Mudhole) Smith Airport	P-N	15,058	60.491798	-145.477997
+Deadhorse	SCC	SCC	PASC	Deadhorse Airport?(Prudhoe Bay Airport)	P-N	64,245	70.194702	-148.464996
+Dillingham	DLG	DLG	PADL	Dillingham Airport	P-N	25,988	59.044701	-158.505005
+Fairbanks	FAI	FAI	PAFA	Fairbanks International Airport	P-S	450,694	64.815102	-147.856003
+Gustavus	GST	GST	PAGS	Gustavus Airport	P-N	10,305	58.425301	-135.707001
+Homer	HOM	HOM	PAHO	Homer Airport	P-N	30,972	59.644456	-151.479235
+Juneau	JNU	JNU	PAJN	Juneau International Airport	P-N	306,512	58.354935	-134.574416
+Kenai	ENA	ENA	PAEN	Kenai Municipal Airport	P-N	68,044	60.570946	-151.245174
+Ketchikan	KTN	KTN	PAKT	Ketchikan International Airport	P-N	117,728	55.355598	-131.714004
+King Salmon	AKN	AKN	PAKN	King Salmon Airport	P-N	29,914	58.677845	-156.651965
+Klawock	AKW	KLW	PAKW	Klawock Airport?(also see?Klawock Seaplane Base)	P-N	14,157	55.579201	-133.076004
+Kodiak	ADQ	ADQ	PADQ	Kodiak Airport?(Benny Benson?State Airport)	P-N	72,905	57.750000	-152.494003
+Kotzebue	OTZ	OTZ	PAOT	Ralph Wien Memorial Airport	P-N	46,305	66.884697	-162.598999
+Nome	OME	OME	PAOM	Nome Airport	P-N	46,645	64.512199	-165.445007
+Petersburg	PSG	PSG	PAPG	Petersburg James A. Johnson Airport	P-N	20,690	56.801701	-132.945007
+Sitka	SIT	SIT	PASI	Sitka Rocky Gutierrez Airport	P-N	80,366	57.047100	-135.362000
+Unalaska	DUT	DUT	PADU	Unalaska Airport?(Tom Madsen/Dutch Harbor?Airport)	P-N	19,099	53.898810	-166.544996
+Utqia?vik?(Barrow)	BRW	BRW	PABR	Wiley Post�CWill Rogers Memorial Airport	P-N	31,898	71.285402	-156.766008
+Wrangell	WRG	WRG	PAWG	Wrangell Airport?(also see?Wrangell Seaplane Base)	P-N	12,100	56.484299	-132.369995
+Yakutat	YAK	YAK	PAYA	Yakutat Airport?(also see?Yakutat Seaplane Base)	P-N	10,899	59.508717	-139.660435
+ARIZONA								
+Flagstaff	FLG	FLG	KFLG	Flagstaff Pulliam Airport	P-N	115,596	35.139757	-111.669826
+Mesa	IWA	AZA	KIWA	Mesa Gateway Airport?(formerly?Williams AFB)	P-S	795,407	33.307800	-111.654999
+Page	PGA[dead link]	PGA	KPGA	Page Municipal Airport	P-N	14,340	36.924234	-111.447716
+Phoenix	PHX	PHX	KPHX	Phoenix Sky Harbor International Airport	P-L	18,940,287	33.435302	-112.005905
+Prescott	PRC	PRC	KPRC	Prescott Municipal Airport?(Ernest A. Love Field)	P-N	23,598	34.653502	-112.419883
+Tucson	TUS	TUS	KTUS	Tucson International Airport	P-S	1,323,536	32.115004	-110.938053
+Yuma	NYL	YUM	KNYL	Yuma International Airport?/?MCAS Yuma	P-N	110,182	32.650938	-114.609375
+ARKANSAS								
+Fayetteville	XNA	XNA	KXNA	Northwest Arkansas National Airport	P-S	598,787	36.281898	-94.306801
+Fort Smith	FSM	FSM	KFSM	Fort Smith Regional Airport	P-N	45,369	35.336601	-94.367401
+Little Rock	LIT	LIT	KLIT	Bill and Hillary Clinton National Airport?(Adams Field)?(was Little Rock National)	P-S	827,922	34.729222	-92.223591
+Texarkana	TXK	TXK	KTXK	Texarkana Regional Airport?(Webb Field)	P-N	26,888	33.453701	-93.990997
+CALIFORNIA								
+Arcata/Eureka	ACV	ACV	KACV	California Redwood Coast�CHumboldt County Airport	P-N	117,972	40.978101	-124.109000
+Bakersfield	BFL	BFL	KBFL	Meadows Field	P-N	174,891	35.433601	-119.056999
+Burbank	BUR	BUR	KBUR	Hollywood Burbank Airport	P-M	3,132,019	34.202834	-118.358050
+Fresno	FAT	FAT	KFAT	Fresno Yosemite International Airport	P-S	1,201,789	36.775767	-119.718018
+Long Beach	LGB	LGB	KLGB	Long Beach Airport?(Daugherty Field)	P-S	1,837,622	33.816523	-118.149891
+Los Angeles	LAX	LAX	KLAX	Los Angeles International Airport	P-L	36,676,975	33.942501	-118.407997
+Monterey	MRY	MRY	KMRY	Monterey Regional Airport	P-N	259,762	36.586777	-121.844183
+Oakland	OAK	OAK	KOAK	Oakland San Francisco Bay Airport	P-M	5,520,778	37.720085	-122.221184
+Ontario	ONT	ONT	KONT	Ontario International Airport	P-M	3,181,161	34.056000	-117.600998
+Palm Springs	PSP	PSP	KPSP	Palm Springs International Airport	P-S	1,625,320	33.829700	-116.507004
+Redding	RDD	RDD	KRDD	Redding Regional Airport	P-N	87,670	40.508999	-122.292999
+Sacramento	SMF	SMF	KSMF	Sacramento International Airport	P-M	6,371,895	38.695400	-121.591003
+San Diego	SAN	SAN	KSAN	San Diego International Airport	P-L	12,190,159	32.733601	-117.190002
+San Francisco	SFO	SFO	KSFO	San Francisco International Airport	P-L	24,191,117	37.619806	-122.374821
+San Jose	SJC	SJC	KSJC	San Jose International Airport	P-M	5,958,813	37.362452	-121.929188
+San Luis Obispo	SBP	SBP	KSBP	San Luis Obispo County Regional Airport?(McChesney Field)	P-N	324,925	35.236801	-120.641998
+Santa Ana	SNA	SNA	KSNA	John Wayne Airport	P-M	5,706,292	33.675063	-117.869281
+Santa Barbara	SBA	SBA	KSBA	Santa Barbara Municipal Airport?(Santa Barbara Airport)	P-S	638,799	34.426201	-119.839996
+Santa Maria	SMX	SMX	KSMX	Santa Maria Public Airport?(Capt G. Allan Hancock Field)	P-N	14,409	34.898899	-120.457001
+Santa Rosa	STS	STS	KSTS	Charles M. Schulz�CSonoma County Airport	P-N	318,196	38.508999	-122.813003
+Stockton	SCK	SCK	KSCK	Stockton Metropolitan Airport	P-N	67,688	37.893279	-121.238079
+COLORADO								
+Alamosa	ALS	ALS	KALS	San Luis Valley Regional Airport?(Bergman Field)	P-N	11,987	37.434898	-105.866997
+Aspen	ASE	ASE	KASE	Aspen/Pitkin County Airport?(Sardy Field)	P-N	248,781	39.223202	-106.869003
+Colorado Springs	COS	COS	KCOS	City of Colorado Springs Municipal Airport	P-S	941,917	38.805801	-104.700996
+Denver	DEN	DEN	KDEN	Denver International Airport	P-L	28,645,527	39.860027	-104.673792
+Durango	DRO	DRO	KDRO	Durango�CLa Plata County Airport	P-N	200,245	37.151501	-107.753998
+Eagle/Vail	EGE	EGE	KEGE	Eagle County Regional Airport	P-N	201,752	39.642601	-106.917999
+Grand Junction	GJT	GJT	KGJT	Grand Junction Regional Airport?(Walker Field)	P-N	252,290	39.126663	-108.529387
+Gunnison	GUC	GUC	KGUC	Gunnison�CCrested Butte Regional Airport	P-N	38,783	38.534672	-106.934566
+Hayden	HDN	HDN	KHDN	Yampa Valley Airport?(Yampa Valley Regional)	P-N	150,142	40.481201	-107.218002
+Montrose	MTJ	MTJ	KMTJ	Montrose Regional Airport	P-N	188,355	38.509800	-107.893997
+CONNECTICUT								
+Hartford	BDL	BDL	KBDL	Bradley International Airport	P-M	3,285,194	41.938555	-72.688016
+New Haven	HVN	HVN	KHVN	Tweed-New Haven Airport	P-S	589,409	41.262869	-72.887694
+DELAWARE								
+Wilmington	ILG	ILG	KILG	Wilmington Airport	P-N	133,377	39.678699	-75.606499
+FLORIDA								
+Daytona Beach	DAB	DAB	KDAB	Daytona Beach International Airport	P-N	275,166	29.182550	-81.059464
+Fort Lauderdale	FLL	FLL	KFLL	Fort Lauderdale�CHollywood International Airport	P-L	13,598,994	26.072599	-80.152702
+Fort Myers	RSW	RSW	KRSW	Southwest Florida International Airport	P-M	5,080,805	26.534685	-81.752816
+Fort Walton Beach	VPS	VPS	KVPS	Destin�CFort Walton Beach Airport?/?Eglin Air Force Base	P-S	973,477	30.481315	-86.515839
+Gainesville	GNV	GNV	KGNV	Gainesville Regional Airport	P-N	200,444	29.690100	-82.271797
+Jacksonville	JAX	JAX	KJAX	Jacksonville International Airport	P-M	2,425,685	30.492469	-81.687813
+Key West	EYW	EYW	KEYW	Key West International Airport	P-S	741,130	24.556119	-81.759579
+Melbourne	MLB	MLB	KMLB	Melbourne Orlando International Airport	P-N	176,820	28.102009	-80.641088
+Miami	MIA	MIA	KMIA	Miami International Airport	P-L	17,500,096	25.796011	-80.289751
+Orlando	MCO	MCO	KMCO	Orlando International Airport	P-L	19,618,838	28.429399	-81.308998
+Panama City	ECP	ECP	KECP	Northwest Florida Beaches International Airport	P-S	794,846	30.357106	-85.795414
+Pensacola	PNS	PNS	KPNS	Pensacola International Airport	P-S	1,168,575	30.472718	-87.186639
+Punta Gorda	PGD	PGD	KPGD	Punta Gorda Airport	P-S	783,397	26.920200	-81.990501
+Sanford	SFB	SFB	KSFB	Orlando Sanford International Airport	P-S	1,174,471	28.774277	-81.234626
+Sarasota	SRQ	SRQ	KSRQ	Sarasota�CBradenton International Airport	P-S	1,574,063	27.394631	-82.554359
+St. Petersburg	PIE	PIE	KPIE	St. Pete�CClearwater International Airport	P-S	1,021,007	27.910200	-82.687401
+Tallahassee	TLH	TLH	KTLH	Tallahassee International Airport	P-N	319,886	30.401209	-84.354330
+Tampa	TPA	TPA	KTPA	Tampa International Airport	P-L	8,847,197	27.975500	-82.533203
+Vero Beach	VRB	VRB	KVRB	Vero Beach Regional Airport	P-N	4,156	27.655600	-80.417901
+West Palm Beach	PBI	PBI	KPBI	Palm Beach International Airport	P-M	2,567,897	26.683201	-80.095596
+GEORGIA								
+Albany	ABY	ABY	KABY	Southwest Georgia Regional Airport	P-N	39,422	31.532946	-84.196215
+Atlanta	ATL	ATL	KATL	Hartsfield�CJackson Atlanta International Airport	P-L	51,865,797	33.636700	-84.428101
+Augusta	AGS	AGS	KAGS	Augusta Regional Airport?(Bush Field)	P-N	300,598	33.369900	-81.964500
+Brunswick	BQK	BQK	KBQK	Brunswick Golden Isles Airport	P-N	40,443	31.258801	-81.466499
+Columbus	CSG	CSG	KCSG	Columbus Airport	P-N	49,354	32.516415	-84.939602
+Macon	MCN	MCN	KMCN	Middle Georgia Regional Airport	P-N	15,431	32.692799	-83.649200
+Savannah	SAV	SAV	KSAV	Savannah/Hilton Head International Airport	P-S	1,356,660	32.126591	-81.199980
+Valdosta	VLD	VLD	KVLD	Valdosta Regional Airport	P-N	44,609	30.782499	-83.276703
+HAWAII								
+Hilo, Hawaii	ITO	ITO	PHTO	Hilo International Airport	P-S	599,148	19.721350	-155.045428
+Honolulu, Oahu	HNL	HNL	PHNL	Daniel K. Inouye International Airport	P-L	10,017,149	21.318387	-157.925670
+Kahului, Maui	OGG	OGG	PHOG	Kahului Airport	P-M	3,571,660	20.896263	-156.431837
+Kailua-Kona, Hawaii	KOA	KOA	PHKO	Ellison Onizuka Kona International Airport at Keahole	P-S	1,829,020	19.738783	-156.045603
+Kaunakakai, Molokai	MKK	MKK	PHMK	Molokai Airport?(Hoolehua Airport)	P-N	79,336	21.152901	-157.095993
+Lanai City, Lanai	LNY	LNY	PHNY	Lanai Airport	P-N	42,061	20.785675	-156.951324
+Lihue, Kauai	LIH	LIH	PHLI	Lihue Airport	P-S	1,644,590	21.974393	-159.337146
+IDAHO								
+Boise	BOI	BOI	KBOI	Boise Airport?(Boise Air Terminal) (Gowen Field)	P-M	1,943,181	43.564400	-116.223000
+Hailey?/?Sun Valley	SUN	SUN	KSUN	Friedman Memorial Airport	P-N	93,280	43.504398	-114.295998
+Idaho Falls	IDA	IDA	KIDA	Idaho Falls Regional Airport?(Fanning Field)	P-N	161,019	43.514599	-112.070999
+Lewiston	LWS	LWS	KLWS	Lewiston�CNez Perce County Airport	P-N	57,957	46.374500	-117.014999
+Pocatello	PIH	PIH	KPIH	Pocatello Regional Airport	P-N	46,303	42.909801	-112.596001
+Twin Falls	TWF	TWF	KTWF	Magic Valley Regional Airport?(Joslin Field)	P-N	47,084	42.481800	-114.487999
+ILLINOIS								
+Belleville	BLV	BLV	KBLV	MidAmerica St. Louis Airport?/?Scott Air Force Base	P-N	152,632	38.545200	-89.835197
+Bloomington?/?Normal	BMI	BMI	KBMI	Central Illinois Regional Airport at Bloomington-Normal	P-N	329,648	40.477100	-88.915901
+Champaign?/?Urbana?/?Savoy	CMI	CMI	KCMI	University of Illinois - Willard Airport	P-N	86,626	40.039819	-88.276249
+Chicago	MDW	MDW	KMDW	Chicago Midway International Airport	P-L	21,513,521	41.785999	-87.752403
+Chicago	ORD	ORD	KORD	Chicago O'Hare International Airport	P-L	80,043,050	41.978600	-87.904800
+Decatur	DEC	DEC	KDEC	Decatur Airport	P-N	12,747	39.834599	-88.865700
+Marion	MWA	MWA	KMWA	Veterans Airport of Southern Illinois?(Williamson County Regional Airport)	P-N	13,816	37.751208	-89.016568
+Moline	MLI	MLI	KMLI	Quad Cities International Airport	P-N	537,000	41.448502	-90.507500
+Peoria	PIA	PIA	KPIA	Peoria International Airport	P-N	687,601	40.663841	-89.692631
+Rockford	RFD	RFD	KRFD	Chicago Rockford International Airport?(was Northwest Chicagoland Regional Airport at Rockford)	P-N	132,154	42.195400	-89.097198
+Springfield	SPI	SPI	KSPI	Abraham Lincoln Capital Airport	P-N	51,784	39.844101	-89.677902
+INDIANA								
+Evansville	EVV	EVV	KEVV	Evansville Regional Airport	P-N	228,850	38.036999	-87.532402
+Fort Wayne	FWA	FWA	KFWA	Fort Wayne International Airport	P-S	372,030	40.978896	-85.194465
+Indianapolis	IND	IND	KIND	Indianapolis International Airport	P-M	4,655,847	39.717300	-86.294403
+South Bend	SBN	SBN	KSBN	South Bend International Airport	P-S	366,617	41.708304	-86.316922
+IOWA								
+Cedar Rapids	CID	CID	KCID	Eastern Iowa Airport	P-S	602,058	41.884701	-91.710800
+Des Moines	DSM	DSM	KDSM	Des Moines International Airport	P-S	1,347,876	41.534027	-93.656719
+Dubuque	DBQ	DBQ	KDBQ	Dubuque Regional Airport	P-N	38,831	42.402000	-90.709503
+Sioux City	SUX	SUX	KSUX	Sioux Gateway Airport?(Brig. General Bud Day Field)	P-N	44,779	42.397605	-96.382237
+Waterloo	ALO	ALO	KALO	Waterloo Regional Airport	P-N	23,892	42.557098	-92.400299
+KANSAS								
+Garden City	GCK	GCK	KGCK	Garden City Regional Airport	P-N	25,243	37.927502	-100.723999
+Hays	HYS	HYS	KHYS	Hays Regional Airport	P-N	11,996	38.844521	-99.273148
+Manhattan	MHK	MHK	KMHK	Manhattan Regional Airport	P-N	72,883	39.140999	-96.670799
+Salina	SLN	SLN	KSLN	Salina Regional Airport	P-N	15,977	38.791000	-97.652199
+Wichita	ICT	ICT	KICT	Wichita Dwight D. Eisenhower National Airport?(was Wichita Mid-Continent Airport)	P-S	812,252	37.650314	-97.428583
+KENTUCKY								
+Cincinnati/Covington	CVG	CVG	KCVG	Cincinnati/Northern Kentucky International Airport	P-M	4,269,258	39.048801	-84.667801
+Lexington	LEX	LEX	KLEX	Blue Grass Airport	P-S	657,018	38.035066	-84.606738
+Louisville	SDF	SDF	KSDF	Louisville Muhammad Ali International Airport?(Standiford Field)	P-S	1,877,861	38.170600	-85.735076
+Owensboro	OWB	OWB	KOWB	Owensboro�CDaviess County Regional Airport	P-N	19,532	37.740101	-87.166801
+Paducah	PAH	PAH	KPAH	Barkley Regional Airport	P-N	20,934	37.060799	-88.773804
+LOUISIANA								
+Alexandria	AEX	AEX	KAEX	Alexandria International Airport	P-N	141,173	31.325828	-92.546702
+Baton Rouge	BTR	BTR	KBTR	Baton Rouge Metropolitan Airport?(Ryan Field)	P-N	390,107	30.533199	-91.149597
+Lafayette	LFT	LFT	KLFT	Lafayette Regional Airport?(Paul Fournet Field)	P-N	223,529	30.205299	-91.987602
+Lake Charles	LCH	LCH	KLCH	Lake Charles Regional Airport	P-N	58,122	30.126101	-93.223297
+Monroe	MLU	MLU	KMLU	Monroe Regional Airport	P-N	107,107	32.510899	-92.037697
+New Orleans	MSY	MSY	KMSY	Louis Armstrong New Orleans International Airport	P-M	6,582,066	29.993401	-90.264673
+Shreveport	SHV	SHV	KSHV	Shreveport Regional Airport	P-N	291,136	32.446602	-93.825600
+MAINE								
+Bangor	BGR	BGR	KBGR	Bangor International Airport	P-N	336,140	44.806364	-68.826668
+Portland	PWM	PWM	KPWM	Portland International Jetport	P-S	1,062,873	43.646198	-70.309303
+Presque Isle	PQI	PQI	KPQI	Presque Isle International Airport	P-N	10,865	46.688999	-68.044800
+Rockland	RKD	RKD	KRKD	Knox County Regional Airport	P-N	17,133	44.060101	-69.099197
+MARYLAND								
+Baltimore	BWI	BWI	KBWI	Baltimore/Washington International Airport	P-L	11,151,169	39.175400	-76.668297
+Hagerstown	HGR	HGR	KHGR	Hagerstown Regional Airport?(Richard A. Henson Field)	P-N	32,197	39.708771	-77.728014
+Salisbury	SBY	SBY	KSBY	Salisbury Regional Airport	P-N	47,275	38.340500	-75.510300
+MASSACHUSETTS								
+Boston	BOS	BOS	KBOS	Gen. Edward Lawrence Logan International Airport	P-L	20,006,521	42.361970	-71.007900
+Hyannis	HYA	HYA	KHYA	Cape Cod Gateway Airport?(Boardman/Polando Field)	P-N	28,341	41.669300	-70.280403
+Nantucket	ACK	ACK	KACK	Nantucket Memorial Airport	P-N	126,610	41.253101	-70.060204
+Vineyard Haven	MVY	MVY	KMVY	Martha's Vineyard Airport	P-N	52,605	41.393101	-70.614304
+Worcester	ORH	ORH	KORH	Worcester Regional Airport	P-N	71,631	42.267300	-71.875702
+MICHIGAN								
+Alpena	APN	APN	KAPN	Alpena County Regional Airport	P-N	11,150	45.078098	-83.560303
+Detroit	DTW	DTW	KDTW	Detroit Metro Wayne County Airport	P-L	16,110,696	42.213770	-83.353786
+Escanaba	ESC	ESC	KESC	Delta County Airport	P-N	17,120	45.723199	-87.088623
+Flint	FNT	FNT	KFNT	Bishop International Airport	P-N	285,088	42.969294	-83.743355
+Grand Rapids	GRR	GRR	KGRR	Gerald R. Ford International Airport	P-S	2,065,053	42.880798	-85.522797
+Hancock	CMX	CMX	KCMX	Houghton County Memorial Airport	P-N	25,833	47.168400	-88.489098
+Iron Mountain	IMT	IMT	KIMT	Ford Airport	P-N	19,483	45.819110	-88.114557
+Kalamazoo	AZO	AZO	KAZO	Kalamazoo/Battle Creek International Airport	P-N	92,510	42.232105	-85.549637
+Lansing	LAN	LAN	KLAN	Capital Region International Airport?(was Lansing Capital City)	P-N	123,608	42.777582	-84.585721
+Marquette	SAW	MQT	KSAW	Marquette Sawyer Regional Airport	P-N	44,574	46.351498	-87.395884
+Muskegon	MKG	MKG	KMKG	Muskegon County Airport	P-N	2,729	43.169498	-86.238197
+Pellston	PLN	PLN	KPLN	Pellston Regional/Emmet County Airport	P-N	31,060	45.570900	-84.796700
+Saginaw	MBS	MBS	KMBS	MBS International Airport	P-N	110,822	43.533181	-84.083104
+Sault Ste. Marie	CIU	CIU	KCIU	Chippewa County International Airport	P-N	26,482	46.242038	-84.462082
+Traverse City	TVC	TVC	KTVC	Cherry Capital Airport?(was Cherry County Airpark)	P-N	393,108	44.741402	-85.582199
+MINNESOTA								
+Bemidji	BJI	BJI	KBJI	Bemidji Regional Airport	P-N	30,081	47.509399	-94.933701
+Brainerd	BRD	BRD	KBRD	Brainerd Lakes Regional Airport	P-N	22,233	46.402861	-94.129727
+Duluth	DLH	DLH	KDLH	Duluth International Airport	P-N	136,806	46.841873	-92.198746
+Hibbing	HIB	HIB	KHIB	Range Regional Airport?(formerly Chisholm�CHibbing Municipal Airport)	P-N	17,111	47.384831	-92.836905
+Minneapolis�CSaint Paul	MSP	MSP	KMSP	Minneapolis�CSaint Paul International Airport?(Wold-Chamberlain Field)	P-L	18,361,942	44.880081	-93.221741
+Rochester	RST	RST	KRST	Rochester International Airport	P-N	182,509	43.908298	-92.500000
+St. Cloud	STC	STC	KSTC	St. Cloud Regional Airport	P-N	22,464	45.546600	-94.059898
+MISSISSIPPI								
+Columbus	GTR	GTR	KGTR	Golden Triangle Regional Airport	P-N	46,246	33.450298	-88.591400
+Gulfport?/?Biloxi	GPT	GPT	KGPT	Gulfport�CBiloxi International Airport	P-N	359,055	30.405582	-89.069836
+Hattiesburg?/?Laurel	PIB	PIB	KPIB	Hattiesburg�CLaurel Regional Airport	P-N	9,813	31.467100	-89.337097
+Jackson	JAN	JAN	KJAN	Jackson�CMedgar Wiley Evers International Airport	P-S	489,454	32.311199	-90.075897
+Meridian	MEI	MEI	KMEI	Key Field	P-N	19,332	32.332600	-88.751900
+Tupelo	TUP	TUP	KTUP	Tupelo Regional Airport?(C.D. Lemons Field)	P-N	13,557	34.268101	-88.769897
+MISSOURI								
+Branson	BBG	BKG	KBBG	Branson Airport	P-N	1,601	36.532082	-93.200544
+Columbia	COU	COU	KCOU	Columbia Regional Airport	P-N	120,235	38.818100	-92.219597
+Fort Leonard Wood?/?Waynesville	TBN	TBN	KTBN	Waynesville�CSt. Robert Regional Airport?(Forney Field)	P-N	7,717	37.741600	-92.140701
+Joplin	JLN	JLN	KJLN	Joplin Regional Airport	P-N	40,013	37.151798	-94.498299
+Kansas City	MCI	MCI	KMCI	Kansas City International Airport?(was Mid-Continent International)	P-M	5,790,847	39.301699	-94.713893
+St. Louis	STL	STL	KSTL	St. Louis Lambert International Airport	P-M	7,631,953	38.748697	-90.370003
+Springfield/Branson	SGF	SGF	KSGF	Springfield�CBranson National Airport	P-S	523,108	37.245047	-93.388596
+MONTANA								
+Billings	BIL	BIL	KBIL	Billings Logan International Airport	P-S	440,263	45.808932	-108.541242
+Bozeman	BZN	BZN	KBZN	Bozeman Yellowstone International Airport?(was Gallatin Field)	P-S	670,295	45.778853	-111.153711
+Butte	BTM	BTM	KBTM	Bert Mooney Airport	P-N	25,803	45.954800	-112.497002
+Great Falls	GTF	GTF	KGTF	Great Falls International Airport	P-N	176,434	47.481998	-111.371002
+Helena	HLN	HLN	KHLN	Helena Regional Airport	P-N	115,438	46.606800	-111.983002
+Kalispell	GPI	FCA	KGPI	Glacier Park International Airport	P-S	307,242	48.310501	-114.255997
+Missoula	MSO	MSO	KMSO	Missoula Montana Airport?(was Missoula International Airport)	P-S	425,563	46.915816	-114.091107
+West Yellowstone	WYS	WYS	KWYS	Yellowstone Airport	P-N	8,200	44.688400	-111.117996
+NEBRASKA								
+Grand Island	GRI	GRI	KGRI	Central Nebraska Regional Airport	P-N	63,298	40.967499	-98.309601
+Kearney	EAR	EAR	KEAR	Kearney Regional Airport?(was Kearney Municipal)	P-N	4,568	40.727001	-99.006798
+Lincoln	LNK	LNK	KLNK	Lincoln Airport?(was Lincoln Municipal)	P-N	150,214	40.844882	-96.761780
+North Platte	LBF	LBF	KLBF	North Platte Regional Airport?(Lee Bird Field)	P-N	13,798	41.126202	-100.683998
+Omaha	OMA	OMA	KOMA	Eppley Airfield	P-M	2,454,878	41.303200	-95.894096
+Scottsbluff	BFF	BFF	KBFF	Western Nebraska Regional Airport?(William B. Heilig Field)	P-N	14,295	41.874001	-103.596001
+NEVADA								
+Boulder City	BVU	BLD	KBVU	Boulder City Municipal Airport	P-N	49,841	35.947161	-114.858799
+Elko	EKO	EKO	KEKO	Elko Regional Airport?(J.C. Harris Field)	P-N	10,723	40.824902	-115.792000
+Las Vegas	LAS	LAS	KLAS	Harry Reid International Airport	P-L	27,896,039	36.083361	-115.151817
+Reno	RNO	RNO	KRNO	Reno/Tahoe International Airport	P-S	2,251,815	39.499100	-119.767998
+NEW HAMPSHIRE								
+Manchester	MHT	MHT	KMHT	Manchester�CBoston Regional Airport	P-S	911,225	42.932598	-71.435699
+Portsmouth	PSM	PSM	KPSM	Portsmouth International Airport at Pease	P-N	92,836	43.077900	-70.823303
+NEW JERSEY								
+Atlantic City	ACY	ACY	KACY	Atlantic City International Airport	P-S	568,958	39.456201	-74.577511
+Newark	EWR	EWR	KEWR	Newark Liberty International Airport	P-L	22,797,602	40.689400	-74.170545
+Trenton	TTN	TTN	KTTN	Trenton�CMercer Airport	P-N	404,349	40.276699	-74.813499
+NEW MEXICO								
+Albuquerque	ABQ	ABQ	KABQ	Albuquerque International Sunport	P-M	2,647,269	35.039976	-106.608925
+Hobbs	HOB	HOB	KHOB	Lea County Regional Airport	P-N	23,475	32.687500	-103.217003
+Roswell	ROW	ROW	KROW	Roswell Air Center	P-N	56,632	33.301601	-104.530998
+Santa Fe	SAF	SAF	KSAF	Santa Fe Municipal Airport	P-N	115,787	35.617100	-106.088997
+NEW YORK								
+Albany	ALB	ALB	KALB	Albany International Airport	P-S	1,440,674	42.748299	-73.801697
+Binghamton	BGM	BGM	KBGM	Greater Binghamton Airport?(Edwin A. Link Field)	P-N	36,382	42.208698	-75.979797
+Buffalo	BUF	BUF	KBUF	Buffalo Niagara International Airport	P-S	2,523,158	42.940498	-78.732201
+Elmira?/?Corning	ELM	ELM	KELM	Elmira/Corning Regional Airport	P-N	141,075	42.159901	-76.891602
+Ithaca	ITH	ITH	KITH	Ithaca Tompkins International Airport	P-N	99,070	42.491001	-76.458397
+New York	JFK	JFK	KJFK	John F. Kennedy International Airport?(was New York International Airport)	P-L	30,620,769	40.639447	-73.779317
+New York	LGA	LGA	KLGA	LaGuardia Airport?(and?Marine Air Terminal)	P-L	15,058,501	40.777199	-73.872597
+Islip?/?Brookhaven	ISP	ISP	KISP	Long Island MacArthur Airport	P-S	811,535	40.796324	-73.101703
+Newburgh	SWF	SWF	KSWF	New York Stewart International Airport	P-N	354,869	41.504210	-74.108901
+Niagara Falls	IAG	IAG	KIAG	Niagara Falls International Airport	P-N	119,182	43.107300	-78.946198
+Ogdensburg	OGS	OGS	KOGS	Ogdensburg International Airport	P-N	23,448	44.681900	-75.465500
+Plattsburgh	PBG	PBG	KPBG	Plattsburgh International Airport	P-N	119,783	44.650902	-73.468102
+Rochester	ROC	ROC	KROC	Frederick Douglass/Greater Rochester International Airport	P-S	1,281,908	43.118900	-77.672401
+Syracuse	SYR	SYR	KSYR	Syracuse Hancock International Airport	P-S	1,139,568	43.111198	-76.106300
+Watertown	ART	ART	KART	Watertown International Airport	P-N	23,844	43.991901	-76.021698
+White Plains	HPN	HPN	KHPN	Westchester County Airport	P-S	789,283	41.067001	-73.707603
+NORTH CAROLINA								
+Asheville	AVL	AVL	KAVL	Asheville Regional Airport	P-S	1,125,935	35.435488	-82.541853
+Charlotte	CLT	CLT	KCLT	Charlotte Douglas International Airport	P-L	25,896,201	35.214001	-80.943100
+Concord	JQF	USA	KJQF	Concord�CPadgett Regional Airport	P-N	119,069	35.387798	-80.709099
+Fayetteville	FAY	FAY	KFAY	Fayetteville Regional Airport?(Grannis Field)	P-N	167,572	34.991199	-78.880302
+Greensboro	GSO	GSO	KGSO	Piedmont Triad International Airport	P-S	903,742	36.099370	-79.937262
+Greenville	PGV	PGV	KPGV	Pitt�CGreenville Airport	P-N	34,824	35.635535	-77.384262
+Jacksonville	OAJ	OAJ	KOAJ	Albert J. Ellis Airport	P-N	133,839	34.829201	-77.612099
+New Bern	EWN	EWN	KEWN	Coastal Carolina Regional Airport?(was Craven County Regional)	P-N	59,159	35.073002	-77.042900
+Raleigh	RDU	RDU	KRDU	Raleigh�CDurham International Airport	P-M	7,118,995	35.878659	-78.787300
+Wilmington	ILM	ILM	KILM	Wilmington International Airport	P-S	655,857	34.272345	-77.905117
+NORTH DAKOTA								
+Bismarck	BIS	BIS	KBIS	Bismarck Municipal Airport	P-N	257,000	46.772734	-100.746874
+Dickinson	DIK	DIK	KDIK	Dickinson Theodore Roosevelt Regional Airport	P-N	24,000	46.797533	-102.801905
+Fargo	FAR	FAR	KFAR	Hector International Airport	P-S	516,000	46.920700	-96.815804
+Grand Forks	GFK	GFK	KGFK	Grand Forks International Airport	P-N	92,000	47.949299	-97.176102
+Jamestown	JMS	JMS	KJMS	Jamestown Regional Airport	P-N	10,000	46.929699	-98.678200
+Minot	MOT	MOT	KMOT	Minot International Airport	P-N	146,000	48.258010	-101.279123
+Williston	XWA	XWA	KXWA	Williston Basin International Airport	P-N	82,000	48.260863	-103.751160
+OHIO								
+Akron?/?Canton	CAK	CAK	KCAK	Akron�CCanton Airport	P-N	449,731	40.916100	-81.442200
+Cleveland	CLE	CLE	KCLE	Cleveland Hopkins International Airport	P-M	4,701,713	41.411701	-81.849800
+Columbus	CMH	CMH	KCMH	John Glenn Columbus International Airport	P-M	3,976,620	39.998001	-82.891899
+Columbus	LCK	LCK	KLCK	Rickenbacker International Airport	P-N	154,475	39.813801	-82.927803
+Dayton	DAY	DAY	KDAY	James M. Cox Dayton International Airport	P-S	858,022	39.902401	-84.219398
+Toledo	TOL	TOL	KTOL	Eugene F. Kranz Toledo Express Airport	P-N	123,541	41.586800	-83.807800
+OKLAHOMA								
+Lawton	LAW	LAW	KLAW	Lawton�CFort Sill Regional Airport	P-N	48,086	34.567699	-98.416603
+Oklahoma City	OKC	OKC	KOKC	OKC Will Rogers International Airport	P-S	2,094,708	35.393388	-97.598248
+Stillwater	SWO	SWO	KSWO	Stillwater Regional Airport	P-N	27,321	36.162132	-97.085581
+Tulsa	TUL	TUL	KTUL	Tulsa International Airport	P-S	1,482,908	36.197084	-95.886225
+OREGON								
+Eugene	EUG	EUG	KEUG	Mahlon Sweet Field	P-S	841,919	44.124599	-123.211998
+Medford	MFR	MFR	KMFR	Rogue Valley International�CMedford Airport	P-S	478,121	42.374199	-122.873001
+North Bend	OTH	OTH	KOTH	Southwest Oregon Regional Airport?(was North Bend Municipal)	P-N	19,590	43.417099	-124.246002
+Portland	PDX	PDX	KPDX	Portland International Airport	P-M	8,123,036	45.588699	-122.598000
+Redmond	RDM	RDM	KRDM	Roberts Field	P-S	558,804	44.254101	-121.150002
+PENNSYLVANIA								
+Allentown	ABE	ABE	KABE	Lehigh Valley International Airport	P-S	468,130	40.651773	-75.442797
+Altoona	AOO	AOO	KAOO	Altoona�CBlair County Airport	P-N	10,616	40.296398	-78.320000
+Erie	ERI	ERI	KERI	Erie International Airport	P-N	65,380	42.083127	-80.173867
+Harrisburg	MDT	MDT	KMDT	Harrisburg International Airport	P-S	803,428	40.192838	-76.762333
+Johnstown	JST	JST	KJST	John Murtha Johnstown�CCambria County Airport	P-N	19,341	40.316101	-78.833900
+Lancaster	LNS	LNS	KLNS	Lancaster Airport	P-N	18,573	40.121700	-76.296097
+Latrobe	LBE	LBE	KLBE	Arnold Palmer Regional Airport	P-N	59,578	40.275902	-79.404800
+Philadelphia	PHL	PHL	KPHL	Philadelphia International Airport	P-L	12,754,034	39.871899	-75.241096
+Pittsburgh	PIT	PIT	KPIT	Pittsburgh International Airport	P-M	4,668,137	40.491501	-80.232903
+State College	UNV	SCE	KUNV	State College Regional Airport	P-N	147,911	40.849374	-77.848520
+Wilkes-Barre?/?Scranton	AVP	AVP	KAVP	Wilkes-Barre/Scranton International Airport	P-N	221,803	41.337064	-75.724232
+RHODE ISLAND								
+Block Island	BID	BID	KBID	Block Island State Airport	P-N	16,809	41.168446	-71.578631
+Providence	PVD	PVD	KPVD	Rhode Island T. F. Green International Airport	P-S	2,117,409	41.725038	-71.425668
+Westerly	WST	WST	KWST	Westerly State Airport	P-N	17,694	41.349602	-71.803398
+SOUTH CAROLINA								
+Charleston	CHS	CHS	KCHS	Charleston International Airport?/?Charleston AFB	P-M	2,192,893	32.896159	-80.038151
+Columbia	CAE	CAE	KCAE	Columbia Metropolitan Airport	P-S	566,660	33.938172	-81.123022
+Florence	FLO	FLO	KFLO	Florence Regional Airport	P-N	44,333	34.185398	-79.723900
+Greenville	GSP	GSP	KGSP	Greenville�CSpartanburg International Airport?(Roger Milliken Field)	P-S	1,133,012	34.895699	-82.218903
+Hilton Head	HXD	HHH	KHXD	Hilton Head Airport	P-N	36,308	32.224400	-80.697502
+Myrtle Beach	MYR	MYR	KMYR	Myrtle Beach International Airport	P-S	1,254,307	33.679699	-78.928299
+SOUTH DAKOTA								
+Aberdeen	ABR	ABR	KABR	Aberdeen Regional Airport	P-N	28,404	45.449100	-98.421799
+Pierre	PIR	PIR	KPIR	Pierre Regional Airport	P-N	30,124	44.382702	-100.286003
+Rapid City	RAP	RAP	KRAP	Rapid City Regional Airport	P-S	303,471	44.045300	-103.056999
+Sioux Falls	FSD	FSD	KFSD	Sioux Falls Regional Airport?(Joe Foss Field)	P-S	529,895	43.585463	-96.741152
+Watertown	ATY	ATY	KATY	Watertown Regional Airport	P-N	12,064	44.914001	-97.154701
+TENNESSEE								
+Chattanooga	CHA	CHA	KCHA	Chattanooga Metropolitan Airport?(Lovell Field)	P-S	504,833	35.035301	-85.203796
+Knoxville	TYS	TYS	KTYS	McGhee Tyson Airport	P-S	1,069,565	35.811001	-83.994003
+Memphis	MEM	MEM	KMEM	Memphis International Airport	P-M	2,213,083	35.043845	-89.976340
+Nashville	BNA	BNA	KBNA	Nashville International Airport?(Berry Field)	P-L	8,017,347	36.124500	-86.678200
+Tri-Cities	TRI	TRI	KTRI	Tri-Cities Airport	P-N	200,086	36.475201	-82.407401
+TEXAS								
+Abilene	ABI	ABI	KABI	Abilene Regional Airport	P-N	75,402	32.411301	-99.681900
+Amarillo	AMA	AMA	KAMA	Rick Husband Amarillo International Airport	P-N	303,904	35.217857	-101.706444
+Austin	AUS	AUS	KAUS	Austin�CBergstrom International Airport	P-L	6,666,215	30.197535	-97.662015
+Beaumont	BPT	BPT	KBPT	Jack Brooks Regional Airport?(was Southeast Texas Regional)	P-N	21,914	29.950800	-94.020699
+Brownsville	BRO	BRO	KBRO	Brownsville/South Padre Island International Airport	P-N	167,957	25.907238	-97.425235
+College Station	CLL	CLL	KCLL	Easterwood Field	P-N	67,033	30.588600	-96.363800
+Corpus Christi	CRP	CRP	KCRP	Corpus Christi International Airport	P-N	285,195	27.770399	-97.501198
+Dallas	DAL	DAL	KDAL	Dallas Love Field	P-M	6,487,563	32.844776	-96.847653
+Dallas�CFort Worth	DFW	DFW	KDFW	Dallas Fort Worth International Airport	P-L	30,005,266	32.896801	-97.038002
+Del Rio	DRT	DRT	KDRT	Del Rio International Airport	P-N	19,879	29.374201	-100.927002
+El Paso	ELP	ELP	KELP	El Paso International Airport	P-S	1,438,321	31.809908	-106.375607
+Harlingen	HRL	HRL	KHRL	Valley International Airport	P-S	355,190	26.228500	-97.654404
+Houston	IAH	IAH	KIAH	George Bush Intercontinental/Houston Airport	P-L	16,242,821	29.984400	-95.341400
+Houston	HOU	HOU	KHOU	William P. Hobby Airport	P-M	5,560,780	29.645336	-95.276812
+Killeen	GRK	GRK	KGRK	Killeen Regional Airport?/ Robert Gray Army Airfield	P-N	142,253	31.067200	-97.828903
+Laredo	LRD	LRD	KLRD	Laredo International Airport	P-N	108,992	27.543800	-99.461601
+Longview	GGG	GGG	KGGG	East Texas Regional Airport	P-N	23,942	32.383999	-94.711502
+Lubbock	LBB	LBB	KLBB	Lubbock Preston Smith International Airport	P-S	405,157	33.663601	-101.822998
+McAllen	MFE	MFE	KMFE	McAllen Miller International Airport	P-S	477,636	26.176141	-98.237965
+Midland?/?Odessa	MAF	MAF	KMAF	Midland International Air and Space Port	P-S	504,264	31.942499	-102.202003
+San Angelo	SJT	SJT	KSJT	San Angelo Regional Airport?(Mathis Field)	P-N	60,115	31.357700	-100.496002
+San Antonio	SAT	SAT	KSAT	San Antonio International Airport	P-M	3,677,643	29.533701	-98.469803
+Tyler	TYR	TYR	KTYR	Tyler Pounds Regional Airport	P-N	39,943	32.354099	-95.402397
+Waco	ACT	ACT	KACT	Waco Regional Airport	P-N	47,541	31.611300	-97.230499
+Wichita Falls	SPS	SPS	KSPS	Wichita Falls Municipal Airport?/?Sheppard Air Force Base	P-N	32,038	33.988800	-98.491898
+UTAH								
+Cedar City	CDC	CDC	KCDC	Cedar City Regional Airport	P-N	12,807	37.701000	-113.098999
+Moab	CNY	CNY	KCNY	Canyonlands Regional Airport	P-N	20,093	38.755001	-109.754997
+Ogden	OGD	OGD	KOGD	Ogden�CHinckley Airport	P-N	29,857	41.195900	-112.012001
+Provo	PVU	PVU	KPVU	Provo Municipal Airport	P-N	118,740	40.218894	-111.722445
+St. George	SGU	SGU	KSGU	St. George Regional Airport	P-N	153,200	37.036389	-113.510306
+Salt Lake City	SLC	SLC	KSLC	Salt Lake City International Airport	P-L	10,795,906	40.788860	-111.979866
+VERMONT								
+Burlington	BTV	BTV	KBTV	Patrick Leahy Burlington International Airport	P-S	658,879	44.471901	-73.153297
+VIRGINIA								
+Charlottesville	CHO	CHO	KCHO	Charlottesville�CAlbemarle Airport	P-N	352,816	38.138599	-78.452904
+Lynchburg	LYH	LYH	KLYH	Lynchburg Regional Airport?(Preston Glenn Field)	P-N	83,392	37.326698	-79.200401
+Newport News	PHF	PHF	KPHF	Newport News/Williamsburg International Airport?(Patrick Henry Field)	P-N	195,573	37.131901	-76.492996
+Norfolk	ORF	ORF	KORF	Norfolk International Airport	P-S	1,846,031	36.895341	-76.201000
+Richmond	RIC	RIC	KRIC	Richmond International Airport?(Byrd Field)	P-S	2,048,691	37.505199	-77.319702
+Roanoke	ROA	ROA	KROA	Roanoke�CBlacksburg Regional Airport?(Woodrum Field)	P-N	330,063	37.325500	-79.975403
+Staunton?/?Waynesboro?/?Harrisonburg	SHD	SHD	KSHD	Shenandoah Valley Regional Airport	P-N	12,179	38.263802	-78.896400
+Washington, D.C.?/?Arlington	DCA	DCA	KDCA	Ronald Reagan Washington National Airport	P-L	11,366,771	38.852100	-77.037697
+Washington, D.C.?/?Dulles?/?Chantilly	IAD	IAD	KIAD	Dulles International Airport	P-L	11,621,623	38.944500	-77.455803
+WASHINGTON								
+Bellingham	BLI	BLI	KBLI	Bellingham International Airport	P-N	311,234	48.792801	-122.538002
+Eastsound	ORS	ESD	KORS	Orcas Island Airport	P-N	8,089	48.708199	-122.910004
+Everett	PAE	PAE	KPAE	Paine Field?(Snohomish County Airport)	P-N	306,499	47.906300	-122.281998
+Friday Harbor	FHR	FRD	KFHR	Friday Harbor Airport	P-N	12,709	48.523654	-123.024645
+Pasco	PSC	PSC	KPSC	Tri-Cities Airport	P-S	438,076	46.264702	-119.119003
+Pullman?/?Moscow, Idaho	PUW	PUW	KPUW	Pullman�CMoscow Regional Airport	P-N	63,835	46.741601	-117.111630
+Seattle	BFI	BFI	KBFI	King County International Airport?(Boeing Field)	P-N	27,446	47.527042	-122.299950
+Seattle?/?Tacoma?(SeaTac)	SEA	SEA	KSEA	Seattle�CTacoma International Airport	P-L	24,594,210	47.447943	-122.310276
+Spokane	GEG	GEG	KGEG	Spokane International Airport?(Geiger Field)	P-S	2,002,286	47.619900	-117.533997
+Walla Walla	ALW	ALW	KALW	Walla Walla Regional Airport	P-N	26,465	46.094898	-118.288002
+Wenatchee	EAT	EAT	KEAT	Pangborn Memorial Airport	P-N	27,655	47.398899	-120.207001
+Yakima	YKM	YKM	KYKM	Yakima Air Terminal?(McAllister Field)	P-N	24,044	46.568199	-120.543999
+WEST VIRGINIA								
+Charleston	CRW	CRW	KCRW	Yeager Airport	P-N	194,898	38.373100	-81.593201
+Clarksburg	CKB	CKB	KCKB	North Central West Virginia Airport?(was Harrison-Marion Regional)	P-N	42,736	39.296600	-80.228104
+Huntington	HTS	HTS	KHTS	Tri-State Airport?(Milton J. Ferguson Field)	P-N	88,888	38.366699	-82.557999
+WISCONSIN								
+Appleton?/?Fox Cities	ATW	ATW	KATW	Appleton International Airport	P-S	540,349	44.258515	-88.519000
+Eau Claire	EAU	EAU	KEAU	Chippewa Valley Regional Airport	P-N	22,289	44.865799	-91.484299
+Green Bay	GRB	GRB	KGRB	Green Bay�CAustin Straubel International Airport	P-N	338,127	44.483459	-88.130805
+La Crosse	LSE	LSE	KLSE	La Crosse Regional Airport	P-N	40,608	43.879002	-91.256699
+Madison	MSN	MSN	KMSN	Dane County Regional Airport?(Truax Field)	P-S	1,156,399	43.139900	-89.337502
+Milwaukee	MKE	MKE	KMKE	Milwaukee Mitchell International Airport	P-M	3,104,054	42.947201	-87.896599
+Mosinee	CWA	CWA	KCWA	Central Wisconsin Airport	P-N	90,087	44.777448	-89.670238
+Rhinelander	RHI	RHI	KRHI	Rhinelander�COneida County Airport	P-N	24,826	45.631199	-89.467499
+WYOMING								
+Casper	CPR	CPR	KCPR	Casper�CNatrona County International Airport	P-N	66,629	42.907381	-106.461609
+Cody	COD	COD	KCOD	Yellowstone Regional Airport	P-N	37,349	44.520199	-109.024002
+Gillette	GCC	GCC	KGCC	Gillette�CCampbell County Airport	P-N	23,873	44.348900	-105.539001
+Jackson	JAC	JAC	KJAC	Jackson Hole Airport	P-S	32,999	43.607300	-110.737999
+Laramie	LAR	LAR	KLAR	Laramie Regional Airport	P-N	16,728	41.312099	-105.675003
+Riverton	RIW	RIW	KRIW	Central Wyoming Regional Airport?(was Riverton Regional)	P-N	15,420	43.064201	-108.459999
+Rock Springs	RKS	RKS	KRKS	Southwest Wyoming Regional Airport?(Rock Springs�CSweetwater County Airport)	P-N	16,679	41.594200	-109.065001
+Sheridan	SHR	SHR	KSHR	Sheridan County Airport	P-N	23,920	44.769199	-106.980003
+GUAM								
+Agana?/?Tamuning	GUM	GUM	PGUM	Antonio B. Won Pat International Airport	P-N	1,736,131	13.485000	144.797282
+NORTHERN MARIANAS								
+Obyan,?Saipan Island	GSN	SPN	PGSN	Saipan International Airport?(Francisco C. Ada)	P-N	595,181	15.119384	145.728848
+Tinian Island	TNI	TIQ	PGWT	Tinian International Airport?(West Tinian)	P-N	38,664	15.000453	145.618974
+PUERTO RICO								
+Aguadilla	BQN	BQN	TJBQ	Rafael Hern��ndez Airport	P-N	360,345	18.494900	-67.129402
+Ceiba	RVR	NRR	TJRV	Jos�� Aponte de la Torre Airport	P-N	19,681	18.247262	-65.639790
+Culebra	CPX	CPX	TJCP	Benjam��n Rivera Noriega Airport	P-N	14,663	18.312954	-65.303893
+Ponce	PSE	PSE	TJPS	Mercedita Airport	P-N	137,553	18.008301	-66.563004
+San Juan	SIG	SIG	TJIG	Fernando Luis Ribas Dominicci Airport	P-N	16,844	18.456800	-66.098099
+San Juan	SJU	SJU	TJSJ	Luis Mu?oz Mar��n International Airport	P-M	6,490,669	18.439400	-66.001801
+Vieques	VQS	VQS	TJVQ	Antonio Rivera Rodr��guez Airport	P-N	37,756	18.134800	-65.493599
+U.S. VIRGIN ISLANDS								
+Charlotte Amalie,?St. Thomas	STT	STT	TIST	Cyril E. King Airport	P-S	417,871	18.337091	-64.977251
+Christiansted,?St. Croix	STX	STX	TISX	Henry E. Rohlsen Airport	P-N	212,812	17.701413	-64.802608
