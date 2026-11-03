@@ -1,0 +1,101 @@
+'icao24','timestamp','acars','adsb','built','categoryDescription','country','engines','firstFlightDate','firstSeen','icaoAircraftClass','lineNumber','manufacturerIcao','manufacturerName','model','modes','nextReg','notes','operator','operatorCallsign','operatorIata','operatorIcao','owner','prevReg','regUntil','registered','registration','selCal','serialNumber','status','typecode','vdl'
+a00001,'2021-11-30 19:00:00',0,0,,'',United States,P&W CANADA PW306D,,,L2J,'',CESSNA,Cessna,'680',0,'','','','','','',Tenax Aerospace Llc,'','2028-11-30',,N1,'','680-0519','',C680,0
+a00002,'2023-03-09 19:00:00',0,0,,'',United States,LYCOMING IO-360-C1G6,,,'','','',Zlt Zeppelin Luftschifftechnik,LZ NO7-101,0,'','','','','','',Goodyear Tire & Rubber Company,'','2027-08-31',,N1A,'','006','',SHIP,0
+a00003,'2022-05-08 15:04:02',0,0,,,United States,,,,,,,,Cirrrus SR22,0,,,'',,'','',,,,,N1AA,,,,SR22,0
+a00004,'2022-05-08 15:04:02',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1AB,,,,'',0
+a00005,'2022-10-26 19:00:00',0,0,,'',United States,LYCOMING O&VO-360 SER,,,L1P,'',EAA,Eaa Sport Biplane,HOME BUILT,0,'','','','','','',Eaa Aviation Foundation Inc,'','2030-03-31',,N1AC,'','3138','',BIPL,0
+a00006,'2023-03-03 19:00:00',0,0,,'',United States,LYCOMING IO-360-A1B6D,,,L1P,'','VAN''S',Aviators Dream Inc,VANS ACFT RV-8A,0,'','','','','','',Haga Eric L,'','2027-07-31',,N1AD,'','81023','',RV8,0
+a00007,'2021-10-14 19:00:00',0,0,,'',United States,ROLLS-ROYC BR 700 SERIES,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace,GV-SP (G550),0,'','','','','','',Emb Equipment Llc,'','2028-09-30',,N1AE,'','5088','',GLF5,0
+a00008,'2022-05-08 15:04:02',0,0,,,United States,,,,,,,,Piper PA-46-350P Malibu Mirage,0,,,'',,'','',,,,,N1AF,,,,PA46,0
+a00009,'2022-05-01 19:00:00',0,0,,'',United States,P&W CANADA JT15D 5 SER,,,L2J,'',RAYTHEON,Raytheon Aircraft Company,'400A',0,'','','','','','',Gossett Aviation Llc,'','2029-09-30',,N1AG,'',RK191,'',BE40,0
+a0000a,'2022-02-15 19:00:00',0,0,,'',United States,LYCOMING 0-235 SERIES,,,L1P,'',YAKIMA AEROSPORT,Grace,BREEZY,0,'','','','','','',Henley Alan F,'','2029-07-31',,N1AH,'','1372-15','',RLU1,0
+a0000b,'2020-11-24 19:00:00',0,0,,'',United States,LYCOMING O&VO-360 SER,,,L1P,'',PITTS,Jenkins,PITTS S-1,0,'','','','','','',Jenkins Arthur J,'','2028-03-31',,N1AJ,'','156H','',PTS1,0
+a0000c,'2022-02-06 19:00:00',0,0,,'',United States,ROLLS-ROYC 250-C30P,,,'','','',Bell,'206-L4',0,'','','','','','',Meridian Investments Llc,'','2028-08-31',,N1AK,'','52317','','',0
+a0000d,'2023-04-06 19:00:00',0,0,,'',United States,ROLLS DEUT BR700-725A112,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace Corp,GVI (G650ER),0,'','','','','','',Alc 6091 Llc,'','2027-12-31',,N1AL,'','6091','',GLF6,0
+a0000e,'2023-03-23 19:00:00',0,0,,'',United States,BMW ROLLS BR 700 SERIES,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace,G-V,0,'','','','','','',Meruelo Group Llc,'','2027-10-31',,N1AM,'','623','',GLF5,0
+a0000f,'2021-08-17 19:00:00',0,0,,'',United States,LYCOMING AEIO-540 SER,,,'','','',Pitts Aerobatics,S-2B,0,'','','','','','',Stone William E,'','2029-01-31',,N1AN,'','5079','','',0
+a00010,'2022-10-04 19:00:00',0,0,,'',United States,ALLISON AE3007C SER,,,L2J,'',CESSNA,Cessna,'750',0,'','','','','','',Citation X 176 Llc,'','2029-12-31',,N1AP,'','750-0176','',C750,0
+a00011,'2022-05-08 15:04:02',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1AQ,,,,'',0
+a00012,'2022-12-05 19:00:00',0,0,,'',United States,ROLLS DEUT BR700-710A220,,,L2J,'',RAYTHEON,Bombardier Inc,BD-700-1A10,0,'','','','','','',Al Rushaid Aviation Ltd,'','2030-04-30',,N1AR,'','9061','',GLEX,0
+a00013,'2022-02-15 19:00:00',0,0,,'',United States,LYCOMING GO-480 SERIES,,,A2P,'',SCAN,Grumman,G-44,0,'','','','','','',Beacon West Llc,'','2029-07-31',,N1AS,'','1230','',G44,0
+a00014,'2022-11-28 19:00:00',0,0,,'',United States,LYCOMING TI0-540 SER,,,L2P,'',PIPER,Piper,PA-31-350,0,'','','','','','',Aircraft Guaranty Corp Trustee,'','2030-03-31',,N1AT,'','31-7405478','',PA31,0
+a00015,'2021-07-05 19:00:00',0,0,,'',United States,'',,,'','','',Dji,INSPIRE 1,0,'','','','','','',Auburn University,'','2028-11-30',,N1AU,'',W13DCH19040985,'',DRON,0
+a00016,'2022-07-15 19:00:00',0,0,,'',United States,CONT MOTOR I0-470 SERIES,,,'','','',Beech,'95-A55',0,'','','','','','',Leader Nicholas A,'','2029-07-31',,N1AV,'',TC-366,'','',0
+a00017,'2021-07-11 19:00:00',0,0,,'',United States,CONT MOTOR I0-470 SERIES,,,L1P,'',COLEMILL,Beech,N35,0,'','','','','','',Koedam Robert E,'','2028-12-31',,N1AW,'',D-6617,'',BE35,0
+a00018,'2022-11-28 19:00:00',0,0,,'',United States,CONT MOTOR 0-300 SER,,,L1P,'',REIMS,Cessna,'172A',0,'','','','','','',Edgerton Agency Inc,'','2030-04-30',,N1AX,'','47418','',C172,0
+a00019,'2021-08-03 19:00:00',0,0,,'',United States,CONT MOTOR IO-550-N,,,L1P,'',CIRRUS,Cirrus Design Corp,SR22,0,'','','','','','',Srj Llc,'','2028-07-31',,N1AY,'','5031','',SR22,0
+a0001a,'2021-10-14 19:00:00',0,0,,'',United States,P&W CANADA PW307A,,,L3J,'',DASSAULT,Dassault Aviation,FALCON 7X,0,'','','','','','',Wilmington Trust Co Trustee,'','2029-03-31',,N1AZ,'','167','',FA7X,0
+a0001b,'2017-09-15 00:10:07',0,0,,'',United States,'',,,L4J,'',LOCKHEED,Lockheed,Jetstar 8,0,'','','','','','',David Topokh,'',,,N1B,'','5156','',L29A,0
+a0001c,'2022-01-31 19:00:00',0,0,,'',United States,ROTAX 912 IS,,,A1P,'',ICON,Icon Aircraft Inc,A5,0,'','','','','','',Gainesville Aircraft Sales Inc,'','2029-02-28',,N1BA,'','00111','',A5,0
+a0001d,'2022-03-28 19:00:00',0,0,,'',United States,ROLLS-ROYC BR 700 SERIES,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace,G-V,0,'','','','','','',Bollinger Enterprises Llc,'','2029-08-31',,N1BB,'','660','',GLF5,0
+a0001e,'2022-10-18 19:00:00',0,0,,'',United States,HONEYWELL TFE-731-SER,,,L2J,'',LEARJET,Learjet Inc,'45',0,'','','','','','',Pd Aviation Llc,'','2029-10-31',,N1BC,'','2010','',LJ45,0
+a0001f,'2021-12-20 19:00:00',0,0,,'',United States,CONT MOTOR IO 520 SERIES,,,L1P,'',FUJI,Beech,A45,0,'','','','','','',Floyds Aero Inc,'','2029-05-31',,N1BD,'',G-91,'',T34P,0
+a00020,'2018-06-03 19:00:00',0,0,,'',United States,CONT MOTOR IO 520 SERIES,,,'','','',Beech,V35B,0,'','','','','','',Violet H Llc,'','2021-06-30',,N1BE,'',D-10402,'','',0
+a00021,'2023-01-21 19:00:00',0,0,,'',United States,CONT MOTOR IO 520 SERIES,,,L2P,'',COLEMILL,Beech,E-55,0,'','','','','','',Russell Kellum Llc,'','2027-06-30',,N1BF,'',TE-961,'',BE55,0
+a00022,'2022-01-16 19:00:00',0,0,,'',United States,P&W PT6 SERIES,,,H2T,'',SIKORSKY,Sikorsky,S-76B,0,'','','','','','',Bollinger Enterprises Llc,'','2029-06-30',,N1BG,'','760410','',S76,0
+a00023,'2023-01-21 19:00:00',0,0,,'',United States,MCCULLOCH 4318A&E/0-100,,,'','','',Bensen,B-8MG,0,'','','','','','',Hinson Bobby W,'','2027-04-30',,N1BH,'','1951034','',GYRO,0
+a00024,'1970-01-01 01:00:00',0,0,,'',United States,'',,,L1P,'',EUROPA,'','',0,'','','','','','','','',,,N1BJ,'','','',EUPA,0
+a00025,'2024-06-25 12:35:50',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1BK,,,,'',0
+a00026,'2021-09-28 19:00:00',0,0,,'',United States,WILLIAMS FJ44-4A,,,L2J,'',CESSNA,Cessna,'525C',0,'','','','','','',Little Angel Llc,'','2028-09-30',,N1BL,'','525C0102','',C25C,0
+a00027,'2024-06-25 12:42:30',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1BM,,,,'',0
+a00028,'2023-01-17 19:00:00',0,0,,'',United States,P&W CANADA PW815GA,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace Corp,GVII-G600,0,'','','','','','',Alchibalink Inc,'','2029-01-31',,N1BN,'','73057','',GA6C,0
+a00029,'2023-03-03 19:00:00',0,0,,'',United States,CONT MOTOR O-470 SERIES,,,L1P,'',WREN,Cessna,'182D',0,'','','','','','',Patton Ministries,'','2027-07-31',,N1BP,'','18253260','',C182,0
+a0002a,'2024-06-25 12:42:30',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1BQ,,,,'',0
+a0002b,'2022-07-24 19:00:00',0,0,,'',United States,LYCOMING AEIO-580-B1A,,,'','','',Game Composites Llc,GB1 GAMEBIRD,0,'','','','','','',Mach Point Aviation Llc,'','2029-01-31',,N1BR,'','0035','','',0
+a0002c,'2022-12-10 19:00:00',0,0,,'',United States,ALLISON AE3007C SER,,,L2J,'',CESSNA,Cessna,'750',0,'','','','','','',Bank Of Stockton,'','2030-04-30',,N1BS,'','750-0081','',C750,0
+a0002d,'2021-11-18 19:00:00',0,0,,'',United States,NONE NONE,,,L1P,'',SCHLEICHER,Schleicher,ASW-20,0,'','','','','','',Carneal Jeffrey T,'','2029-03-31',,N1BT,'','20072','',AS20,0
+a0002e,'2021-02-12 19:00:00',0,0,,'',United States,'',,,L1P,'',SSH,Bucker Jungmann,C.A.S.A. 1.131,0,'','','','','','',Kerner Frank W,'','2028-07-31',,N1BU,'',E3B-327,'',BU31,0
+a0002f,'2024-06-25 12:27:44',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1BV,,,,'',0
+a00030,'2021-04-18 19:00:00',0,0,,'',United States,'',,,L1P,'',COLEMILL,Beech,V35B,0,'','','','','','',Mbs Ventures Inc,'','2028-09-30',,N1BW,'',D-9963,'',BE35,0
+a00031,'2021-09-15 19:00:00',0,0,,'',United States,ROLLS DEUT BR700-710C411,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace,GV-SP (G550),0,'','','','','','',Banc Of America Leasing & Capital Llc,'','2028-09-30',,N1BX,'','5568','',GLF5,0
+a00032,'2021-03-07 19:00:00',0,0,,'',United States,LYCOMING IO-540-D4A5,,,L1P,'',HARMON (2),Bloomquist Paul,TEAM ROCKET F-1,0,'','','','','','',J Conrad Inc,'','2028-07-31',,N1BY,'','097','',HROC,0
+a00033,'2024-06-25 12:11:30',0,0,,,United States,,,,,,,,Cessna 525 Citation CJ1,0,,,'',,'','',,,,,N1BZ,,,,C525,0
+a00034,'2023-04-13 19:00:00',0,0,,'',United States,P&W CANADA PW308C,,,L2J,'',DASSAULT,Dassault Aviation,FALCON 2000EX,0,'','','','','','',Maverick Air Llc,'','2028-01-31',,N1C,'','229','',F2TH,0
+a00035,'2021-04-10 19:00:00',0,0,,'',United States,HONEYWELL AS907-1-1A,,,L2J,'',BOMBARDIER,Bombardier Inc,BD-100-1A10,0,'','','','','','',C A Leasing Corp,'','2028-08-31',,N1CA,'','20360','',CL30,0
+a00036,'2018-02-25 19:00:00',0,0,,'',United States,CONT MOTOR 0-300 SER,,,'','','',Cessna,'172',0,'','','','','','',Char-brad Aero Llc,'','2021-07-31',,N1CB,'','36672','','',0
+a00037,'2022-09-19 19:00:00',0,0,,'',United States,ROLLS DEUT BR700-710C411,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace,GV-SP (G550),0,'','','','','','',Tonkawa Inc,'','2029-10-31',,N1CC,'','5419','',GLF5,0
+a00038,'2024-06-25 12:27:44',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1CD,,,,'',0
+a00039,'2021-03-16 19:00:00',0,0,,'',United States,WILLIAMS FJ44-3A,,,L2J,'',CESSNA,Textron Aviation Inc,'525B',0,'','','','','','',Moose Ventures Llc,'','2028-03-31',,N1CE,'','525B0481','',C25B,0
+a0003a,'2021-10-12 19:00:00',0,0,,'',United States,HONEYWELL AS907-1-1A,,,L2J,'',BOMBARDIER,Bombardier Inc,BD-100-1A10,0,'','','','','','',Northern Holdings Llc,'','2029-03-31',,N1CF,'','20054','',CL30,0
+a0003b,'2023-03-22 19:00:00',0,0,,'',United States,ALLIEDSIGN TFE731-40-1C,,,L3J,'',DASSAULT,Dassault-breguet,FALCON 50,0,'','','','','','',Sidewinder Aviation Llc,'','2030-03-31',,N1CG,'','171','',FA50,0
+a0003c,'2023-03-23 19:00:00',0,0,,'',United States,P&W CANADA PW535E,,,L2J,'',EMBRAER,Embraer Executive Aircraft Inc,EMB-505,0,'','','','','','',Cmh Homes Inc,'','2027-10-31',,N1CH,'','50500428','',E55P,0
+a0003d,'2024-06-25 12:42:30',0,0,,,United States,,,,,,,,Cirrus SR22T,0,,,'',,'','',,,,,N1CJ,,,,S22T,0
+a0003e,'2022-11-28 19:00:00',0,0,,'',United States,CONT MOTOR IO 520 SERIES,,,L1P,'',COLEMILL,Beech,'35-C33A',0,'','','','','','',Wilson Nick,'','2030-04-30',,N1CK,'',CE-30,'',BE35,0
+a0003f,'2021-12-14 19:00:00',0,0,,'',United States,CONT MOTOR TSIO-520 SER,,,L1J,'',HAWKER SIDDELEY,Beech,'58TC',0,'','','','','','',Loftis Chris,'','2028-08-31',,N1CL,'',TK-126,'',GNAT,0
+a00040,'2022-05-15 19:00:00',0,0,,'',United States,P&W R-985 SERIES,,,L1P,'',DE HAVILLAND CANADA,Dehavilland,BEAVER DHC-2 MK.1,0,'','','','','','',Flight Management Llc,'','2029-10-31',,N1CM,'','1606','',DHC2,0
+a00041,'2023-03-24 19:00:00',0,0,,'',United States,CONT MOTOR IO 520 SERIES,,,L2P,'',BEECH,Beech,'95-C55',0,'','','','','','',Tarvair Eclipse Llc,'','2030-03-31',,N1CN,'',TE-313,'',BE95,0
+a00042,'2021-08-09 19:00:00',0,0,,'',United States,GE CF34-3B,,,L2J,'',CANADAIR,Bombardier Inc,CL-600-2B16,0,'','','','','','',Cp Aviation Llc,'','2028-05-31',,N1CP,'','5885','',CL60,0
+a00043,'2021-10-24 19:00:00',0,0,,'',United States,LYCOMING 0-235 SERIES,,,L1P,'',GULFSTREAM AMERICAN,Grumman American Avn. Corp.,AA-1B,0,'','','','','','',Express Helicopters Llc,'','2028-10-31',,N1CQ,'',AA1B-0158,'',AA1,0
+a00044,'2022-08-11 19:00:00',0,0,,'',United States,TURBOMECA ARRIEL 2D,,,H1T,'',LOT,Airbus Helicopters Inc,AS350B3,0,'','','','','','',Comanche Maverick Air Llc,'','2030-01-31',,N1CR,'','8165','',AS50,0
+a00045,'2022-02-16 19:00:00',0,0,,'',United States,CONT MOTOR IO 520 SERIES,,,L1P,'',TUSCO,North American,NAVION A,0,'','','','','','',Moseley Ailsa,'','2029-07-31',,N1CS,'',NAV-4-106,'',NAVI,0
+a00046,'2022-05-23 19:00:00',0,0,,'',United States,CONT MOTOR IO-360 SER,,,L2P,'',REIMS,Cessna,T337G,0,'','','','','','',Call Kent E,'','2029-06-30',,N1CT,'',P3370001,'',P337,0
+a00047,'2022-03-30 19:00:00',0,0,,'',United States,GE CF34-3B,,,L2J,'',CANADAIR,Bombardier Inc,CL-600-2B16,0,'','','','','','',Crimson Voyager Llc,'','2029-03-31',,N1CU,'','5890','',CL60,0
+a00048,'2016-04-13 19:00:00',0,0,,'',United States,LYCOMING O&VO-360 SER,,,'','','',Oliveros,PITTS SPECIAL,0,'','','','','','',Aronoff Jonathan,'','2019-04-30',,N1CV,'','411H','','',0
+a00049,'2021-06-28 19:00:00',0,0,,'',United States,P&W CANADA PT6A-67P,,,L1T,'',PILATUS,Pilatus Aircraft Ltd,PC-12/47E,0,'','','','','','',Aircw Llc,'','2028-06-30',,N1CW,'','1705','',PC12,0
+a0004a,'2022-01-02 19:00:00',0,0,,'',United States,LYCOMING O-320 SERIES,,,'','','',Fasching John W,RV-6A,0,'','','','','','',Pacific Ocean Consulting Llc,'','2029-01-31',,N1CX,'','21563','','',0
+a0004b,'2022-08-15 19:00:00',0,0,,'',United States,CONT MOTOR C125 SERIES,,,'','','',Temco,GC-1B,0,'','','','','','',Swift Museum Foundation Inc,'','2030-01-31',,N1CY,'','3572','','',0
+a0004c,'2022-08-08 19:00:00',0,0,,'',United States,CONT MOTOR W670 SERIES,,,L1P,'',CESSNA,Cessna,'190',0,'','','','','','',Warden Richard L,'','2030-01-31',,N1CZ,'','7481','',C190,0
+a0004d,'2023-01-21 19:00:00',0,0,,'',United States,ROLLS-ROYC TAY 611SER,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace,G-IV,0,'','','','','','',Wac I Llc,'','2027-06-30',,N1D,'','1209','',GLF4,0
+a0004e,'2023-04-03 19:00:00',0,0,,'',United States,'',,,L2J,'',CESSNA,Cessna,'500',0,'','','','','','',N1da Llc,'','2030-04-30',,N1DA,'','500-0288','',C500,0
+a0004f,'2021-03-16 19:00:00',0,0,,'',United States,'',,,L2J,'',RAYTHEON,Raytheon Aircraft Company,'400A',0,'','','','','','',Inab Llc,'','2028-08-31',,N1DB,'',RK-471,'',BE40,0
+a00050,'2021-12-29 19:00:00',0,0,,'',United States,BMW ROLLS BR 700 SERIES,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace,G-V,0,'','','','','','',Blue Star Management Services Corp,'','2029-04-30',,N1DC,'','651','',GLF5,0
+a00051,'2024-06-25 12:11:30',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1DD,,,,'',0
+a00052,'2023-04-06 19:00:00',0,0,,'',United States,GARRETT TFE731 SERIES,,,L2J,'',LEARJET,Learjet Inc,'31',0,'','',Champion Air,CHAMPION AIR,MG,CCP,Champion Air Llc,'','2027-12-31',,N1DE,'','016','',LJ31,0
+a00053,'2021-05-24 19:00:00',0,0,,'',United States,P & W R-2800 SERIES,,,L1P,'',GRUMMAN,Grumman,F8F-2,0,'','','','','','',Comanche Warbirds Inc,'','2028-10-31',,N1DF,'','121748','',BCAT,0
+a00054,'2017-09-15 00:10:07',0,0,,'',United States,'',,,L2J,'',BOMBARDIER,Bombardier,Global 5000,0,'','','','','','',Gama Charters Inc,'',,,N1DG,'','9156','',GL5T,0
+a00055,'2022-04-07 19:00:00',0,0,,'',United States,GE CF34-3A1,,,L2J,'',CANADAIR,Bombardier Inc,CL-600-2B16,0,'','','','','','',Bc Leasing Llc,'','2029-07-31',,N1DH,'','5145','',CL60,0
+a00056,'2022-07-19 19:00:00',0,0,,'',United States,CONT MOTOR IO 520 SERIES,,,L1P,'',RAYTHEON,Beech,F33A,0,'','','','','','',Sweeney Michael R,'','2029-10-31',,N1DJ,'',CE-1116,'',BE33,0
+a00057,'2017-05-01 19:00:00',0,0,,'',United States,CONT MOTOR IO-550 SERIES,,,'','','',Cirrus Design Corp,SR22,0,'','','','','','',Atlantic Traders Llc,'','2020-05-31',,N1DK,'','0934','','',0
+a00058,'2021-11-01 19:00:00',0,0,,'',United States,ROTAX 914 SERIES,,,L1P,'',RANS,Stemme Gmbh & Co,S10-VT,0,'','','','','','',Thunderbird Aviation Llc,'','2029-02-28',,N1DL,'','11-031','',SAKO,0
+a00059,'2021-05-27 19:00:00',0,0,,'',United States,P&W CANADA PW814GA,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace Corp,GVII-G500,0,'','','','','','',Macneil Aviation Llc,'','2028-04-30',,N1DM,'','72070','',GA5C,0
+a0005a,'2023-01-21 19:00:00',0,0,,'',United States,CONT MOTOR E185 SERIES,,,L1P,'',COLEMILL,Beech,A35,0,'','','','','','',Warren Howard E,'','2027-05-31',,N1DN,'',D-1967,'',BE35,0
+a0005b,'2021-05-11 19:00:00',0,0,,'',United States,CURTISS OX-5,,,'','','',Donald C Perry,CURTISS JN-4D,0,'','','','','','',Poplar Grove Aviation Education Association,'','2028-02-29',,N1DP,'','7685','','',0
+a0005c,'2017-09-15 00:10:19',0,0,,'',United States,'',,,H1T,'',RACA,Hughes,'369 HS',0,'','','','','','',Private,'',,,N1DQ,'','63-0491S','',H500,0
+a0005e,'2022-06-01 19:00:00',0,0,,'',United States,ROLLS DEUT BR700-725A112,,,L2J,'',GULFSTREAM AEROSPACE,Gulfstream Aerospace Corp,GVI (G650ER),0,'','','','','','',Dcs Enterprises Inc,'','2029-06-30',,N1DS,'','6369','',GLF6,0
+a0005f,'2024-06-25 12:42:30',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1DT,,,,'',0
+a00060,'2023-03-23 19:00:00',0,0,,'',United States,LYCOMING GSO&IGSO-480,,,L2P,'',SWEARINGEN,Beech,D50C,0,'','','','','','',Pittsburgh Institute Of Aeronautics,'','2027-10-31',,N1DU,'',DH-262,'',BE50,0
+a00061,'2024-06-25 12:35:50',0,0,,,United States,,,,,,,,Cessna 182Q,0,,,'',,'','',,,,,N1DV,,,,C182,0
+a00062,'2023-02-02 19:00:00',0,0,,'',United States,ROLLS-ROYC TAY 611-8C,,,'','','',Gulfstream Aerospace,GIV-X (G450),0,'','','','','','',Flexjet Llc,'','2030-02-28',,N1DW,'','4176','',G450,0
+a00063,'2021-09-22 19:00:00',0,0,,'',United States,ROLLS-ROYC 250-C300/A1,,,H1T,'',ROBINSON,Robinson Helicopter Co,R66,0,'','','','','','',Ravens Holdings Aviation Llc,'','2029-01-31',,N1DX,'','0665','',R66,0
+a00064,'2024-06-25 12:42:30',0,0,,,United States,,,,,,,,'',0,,,'',,'','',,,,,N1DY,,,,'',0
+a00065,'2022-08-23 19:00:00',0,0,,'',United States,CONT MOTOR O-470 SERIES,,,'','','',Cessna,'182E',0,'','','','','','',Xtreme Flying Services Llc,'','2029-08-31',,N1DZ,'','18253742','','',0

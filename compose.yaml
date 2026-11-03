@@ -1,0 +1,200 @@
+# The initial content of this file was taken from cs506 tutorial spring boot 2
+
+x-db-url-prod: &db-url-prod 'jdbc:mysql://db:3306/planepeep-db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true'
+x-db-url-dev: &db-url-dev 'jdbc:mysql://db-dev:3306/planepeep-db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true'
+
+x-common-backend: &common-backend
+    ports:
+        - '8001:8080'
+    env_file:
+        - ./backend/.env
+    healthcheck:
+        test: ['CMD', 'curl', '-f', 'http://localhost:8080/api/health']
+        interval: 10s
+        timeout: 5s
+        retries: 10
+        start_period: 30s # delay to start check
+
+x-common-db: &common-db
+    image: mysql:8.0
+    restart: always
+    volumes:
+        - db_data:/var/lib/mysql
+    ports:
+        - '8002:3306'
+    env_file:
+        - ./backend/.env
+    healthcheck:
+        test: ['CMD', 'mysqladmin', 'ping', '-h', 'localhost']
+        interval: 10s
+        timeout: 5s
+        retries: 5
+x-common-frontend: &common-frontend
+    env_file:
+        - ./frontend/.env
+
+x-common-metadata-loader: &common-metadata-loader
+    build:
+        context: ./metadata-loader
+        target: load
+    env_file:
+        - ./backend/.env
+
+services:
+    db:
+        <<: *common-db
+        container_name: db
+        profiles:
+            - prod
+
+    db-dev:
+        <<: *common-db
+        container_name: db-dev
+        profiles:
+            - dev
+
+    backend:
+        <<: *common-backend
+        container_name: backend
+        profiles:
+            - prod
+        build:
+            context: ./backend
+            target: production
+        depends_on:
+            db:
+                condition: service_healthy
+        environment:
+            DB_URL: *db-url-prod
+        # Prod uses default CMD (runs jar)
+        # no volumes or bind mounts since we don't need hot reloading in prod
+
+    backend-dev:
+        <<: *common-backend
+        container_name: backend-dev
+        profiles:
+            - dev
+        build:
+            context: ./backend
+            target: development
+        develop:
+            watch:
+                - action: rebuild
+                  path: ./backend/src
+                - action: sync
+                  path: ./backend/build/classes
+                  target: /app/classes
+        depends_on:
+            db-dev:
+                condition: service_healthy
+        environment:
+            DB_URL: *db-url-dev
+        # fixes line endings in Windows and runs with bootRun
+        command: bash -c 'dos2unix -n gradlew_host gradlew && ./gradlew bootRun --args="--spring.profiles.active=dev" --continuous'
+        volumes: # bind mounting the source code enables hot reloading with bootRun
+            - ./backend/src:/app/src
+            - ./backend/gradlew:/app/gradlew_host
+            - ./backend/gradle:/app/gradle
+            - ./backend/gradle.properties:/app/gradle.properties
+            - ./backend/build.gradle:/app/build.gradle
+            - ./backend/settings.gradle:/app/settings.gradle
+            - ./backend/src/main/resources/application-dev.properties:/app/application-dev.properties
+            - gradle_cache:/home/gradle/.gradle # faster builds
+        # First bootRun can take several minutes (Gradle deps + compile); avoid false unhealthy
+        healthcheck:
+            test: ['CMD', 'curl', '-f', 'http://localhost:8080/api/health']
+            interval: 10s
+            timeout: 5s
+            retries: 15
+            start_period: 300s
+
+    frontend:
+        <<: *common-frontend
+        ports:
+            - '8000:5176' # nginx in prod image listens on 5176 (see Frontend/nginx.conf)
+        container_name: frontend
+        profiles:
+            - prod
+        build:
+            context: ./frontend
+            target: production
+        depends_on:
+            backend:
+                condition: service_healthy
+        # no volumes or bind mounts since we don't need hot reloading in prod
+
+    frontend-dev:
+        <<: *common-frontend
+        ports:
+            - '8000:8000' # Vite dev server runs on 8000 in container (see Frontend/vite.config.ts)
+        container_name: frontend-dev
+        profiles:
+            - dev
+        build:
+            context: ./frontend
+            target: development
+        depends_on:
+            backend-dev:
+                condition: service_healthy
+        # bind mounting the source code enables hot reloading with Vite
+        volumes:
+            - ./frontend:/app
+            # Named volume: avoids host node_modules; refresh with `docker compose ... down -v` if needed
+            - frontend_dev_node_modules:/app/node_modules
+
+    metadata-loader:
+        <<: *common-metadata-loader
+        container_name: metadata-loader
+        profiles:
+            - prod
+        environment:
+            DB_HOST: db
+            DB_URL: *db-url-prod
+        depends_on:
+            backend:
+                condition: service_healthy
+
+    metadata-loader-dev:
+        <<: *common-metadata-loader
+        container_name: metadata-loader-dev
+        profiles:
+            - dev
+        environment:
+            DB_HOST: db-dev
+            DB_URL: *db-url-dev
+        depends_on:
+            backend-dev:
+                condition: service_healthy
+
+    phpmyadmin:
+        image: phpmyadmin/phpmyadmin
+        container_name: phpmyadmin
+        ports:
+            - '8003:80'
+        environment:
+            PMA_HOST: db
+            PMA_PORT: 3306
+        profiles:
+            - prod
+        depends_on:
+            db:
+                condition: service_healthy
+
+    phpmyadmin-dev:
+        image: phpmyadmin/phpmyadmin
+        container_name: phpmyadmin-dev
+        ports:
+            - '8003:80'
+        environment:
+            PMA_HOST: db-dev
+            PMA_PORT: 3306
+        profiles:
+            - dev
+        depends_on:
+            db-dev:
+                condition: service_healthy
+
+volumes:
+    db_data:
+    gradle_cache:
+    frontend_dev_node_modules:
